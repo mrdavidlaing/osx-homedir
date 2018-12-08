@@ -2,4 +2,4 @@
 
 set -e
 
-(cd ~/ && git remote set-url origin git@github.com:scottmuc/osx-homedir.git)
+(cd ~/ && git remote set-url origin git@github.com:mrdavidlaing/osx-homedir.git)

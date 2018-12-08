@@ -17,11 +17,10 @@ curl -L https://raw.githubusercontent.com/mrdavidlaing/osx-homedir/master/bin/cu
 
 **Manual Steps**
 
-* Map capslock to control
-* Set trackpad to tap-to-click
-* Launch 1Password and authenticate via credentials+salt stored on a dead tree
+* Launch Lastpass & authenticate 
 * Launch shiftit and get it setup
-* Launch flycut and get it setup
+* Launch Alfred and get it setup
+  * `lpass show "david@davidlaing.com/Alfred 3 license"` to activate the Powerpack
 
 ### So What's Included?
 

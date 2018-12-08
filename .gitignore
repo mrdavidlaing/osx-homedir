@@ -24,6 +24,9 @@
 /.tldrc
 /.vagrant.d
 /.viminfo
+/.lpass
+/.zoomus
+/.tig_history
 
 # Ignoring application created directories
 /Dropbox

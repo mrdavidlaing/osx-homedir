@@ -8,6 +8,7 @@ main() {
   invoke_sprout_wrap
   invoke_homebrew
   setup_neovim
+  setup_lastpass_buddy
   invoke_softewareupdate
 }
 
@@ -24,8 +25,11 @@ write_or_check_machine_birthdate() {
     echo "Your machine was born on: ${birthdate}"
     echo ""
     echo "Have you considered that it might be time to recreate your workstation?"
-    sleep 5
   fi
+}
+
+setup_lastpass_buddy() {
+  sudo gem install lastpass-buddy
 }
 
 invoke_sprout_wrap() {
