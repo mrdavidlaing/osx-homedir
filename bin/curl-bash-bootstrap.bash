@@ -19,7 +19,7 @@ pushd ${target_dir}
     exit -1
   fi
   git init
-  git remote add origin https://github.com/scottmuc/osx-homedir.git
+  git remote add origin https://github.com/mrdavidlaing/osx-homedir.git
   git fetch --all
   git checkout master
 popd
