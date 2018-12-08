@@ -11,7 +11,7 @@ On a freshly installed **macOS Mojave** machine the following commands will get 
 
 ```
 sudo xcodebuild -license
-curl -L https://raw.githubusercontent.com/scottmuc/osx-homedir/master/bin/curl-bash-bootstrap.bash 2> /dev/null | bash
+curl -L https://raw.githubusercontent.com/mrdavidlaing/osx-homedir/master/bin/curl-bash-bootstrap.bash 2> /dev/null | bash
 ~/bin/coalesce_this_machine
 ```
 
