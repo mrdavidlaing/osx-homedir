@@ -32,4 +32,5 @@ cask 'skype'
 cask 'vlc'
 cask 'alfred'
 cask 'zoomus'
+cask 'atom'
 
