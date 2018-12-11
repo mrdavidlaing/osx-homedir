@@ -27,6 +27,8 @@
 /.lpass
 /.zoomus
 /.tig_history
+/.atom
+/.pivnetrc
 
 # Ignoring application created directories
 /Dropbox

@@ -33,4 +33,4 @@ cask 'vlc'
 cask 'alfred'
 cask 'zoomus'
 cask 'atom'
-
+cask 'slack'
