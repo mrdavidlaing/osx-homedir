@@ -21,6 +21,8 @@ curl -L https://raw.githubusercontent.com/mrdavidlaing/osx-homedir/master/bin/cu
 * Launch shiftit and get it setup
 * Launch Alfred and get it setup
   * `lpass show "david@davidlaing.com/Alfred 3 license"` to activate the Powerpack
+  * Switch on clipboard
+* Increase mouse cursor speed
 
 ### So What's Included?
 
