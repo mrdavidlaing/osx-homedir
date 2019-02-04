@@ -22,6 +22,8 @@ brew 'lastpass-cli'
 brew 'pivnet-cli'
 brew 'tig'
 brew 'watch'
+brew 'gnu-sed'
+brew 'coreutils'
 
 cask 'google-chrome'
 cask 'brave-browser'
