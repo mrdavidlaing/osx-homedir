@@ -24,6 +24,7 @@ brew 'tig'
 brew 'watch'
 brew 'gnu-sed'
 brew 'coreutils'
+brew 'pip'
 
 cask 'google-chrome'
 cask 'brave-browser'
